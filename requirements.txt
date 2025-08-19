@@ -1,0 +1,30 @@
+# 필수 GUI 프레임워크
+PyQt5==5.15.10
+
+# 컴퓨터 비전 및 이미지 처리
+opencv-python==4.8.1.78
+Pillow==10.0.1
+
+# OCR 엔진
+pytesseract==0.3.10
+
+# 날짜 및 시간 처리 (Python 내장이지만 명시)
+# datetime - Python 내장 모듈
+
+# 파일 시스템 및 경로 처리 (Python 내장이지만 명시)
+# os, pathlib - Python 내장 모듈
+
+# 확장 가능한 OCR 엔진 (선택사항)
+# easyocr==1.7.0
+
+# 클라우드 저장소 API (확장용 - 선택사항)
+# dropbox==11.36.2
+# google-api-python-client==2.103.0
+
+# 개발 및 디버깅 도구 (선택사항)
+# pytest==7.4.2
+# black==23.9.1
+# flake8==6.1.0
+
+# 로깅 (Python 내장이지만 향상된 기능을 위해)
+# colorlog==6.7.0
