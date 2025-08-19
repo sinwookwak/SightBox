@@ -60,7 +60,8 @@ Offline-SGBDs
 
 # Exclude default and custom temporary directories
 Backup_*
-
+# Virtual environment
+.venv/
 # Python bytecode and cache files
 __pycache__/
 *.py[cod]
